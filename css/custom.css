@@ -1,0 +1,16 @@
+/*============================================================================================*/
+/* Your custom styles below */
+/*============================================================================================*/
+.error{
+    display: block;
+    margin-top: 10px;
+    color: red;
+}
+
+.swal-overlay{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.table-custom td{
+    vertical-align: middle;
+}
